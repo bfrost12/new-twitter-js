@@ -1,0 +1,11 @@
+{
+  "name": "twitter-js-2",
+  "version": "1.0.0",
+  "description": "Bryce's version of twitter js (for learning purposes only)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
